@@ -1,7 +1,3 @@
-Here’s a template for your **README** documentation for the **"Effective Giggle Using Java"** app, designed as part of your final project. You can copy and paste this into your `README.md` file.
-
----
-
 # MoodSensor
 
 ## Overview
