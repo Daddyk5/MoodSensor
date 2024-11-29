@@ -110,6 +110,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This **README** provides all the necessary details for users to understand, build, and contribute to the **Effective Giggle Using Java** project.
+This **README** provides all the necessary details for users to understand, build, and contribute to the **MoodSensor** project.
 
 You can adjust and expand the content based on your needs or any additional features in the app!
